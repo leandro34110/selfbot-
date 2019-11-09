@@ -1,0 +1,22 @@
+{
+  "name": "leandro",
+  "version": "1.0.0",
+  "main": "leandro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.17.0",
+    "gif-search": "^2.0.1",
+    "https": "^1.0.0",
+    "ms": "^2.1.1",
+    "random-number": "0.0.9",
+    "request": "^2.88.0",
+    "superagent": "^5.0.5"
+  },
+  "devDependencies": {},
+  "description": ""
+}
